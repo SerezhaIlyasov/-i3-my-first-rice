@@ -15,3 +15,4 @@ System setup: nwg-look
 
 Menu: rofi
 
+Monitor setup: xrandr
