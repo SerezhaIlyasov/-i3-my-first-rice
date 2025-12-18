@@ -9,4 +9,9 @@ Browser: firefox
 
 Bar: polybar 
 
-Shell: zsh 
+Shell: zsh (oh-my-zsh)
+
+System setup: nwg-look
+
+Menu: rofi
+
