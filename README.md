@@ -16,3 +16,5 @@ System setup: nwg-look
 Menu: rofi
 
 Monitor setup: xrandr
+
+Screen shot: flameshot
