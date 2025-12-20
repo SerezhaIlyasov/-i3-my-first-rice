@@ -1,6 +1,8 @@
 # -i3-my-first-rice
 My setup
 
+Distribution: arch
+
 Terminal: kitty
 
 File manager: thunar 
