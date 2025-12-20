@@ -23,10 +23,10 @@ Screen shot: flameshot
 
 
 Preview
-!Workspace.png (ScreenShot/Workspace.png)
+https://github.com/SerezhaIlyasov/-i3-my-first-rice/blob/main/ScreenShots/Terminal2_and_firefox.png
 
-!Terminal_and_thunar.png (ScreenShot/Terminal_and_thunar.png)
+https://github.com/SerezhaIlyasov/-i3-my-first-rice/blob/main/ScreenShots/Terminal_and_firefox.png
 
-!Terminal_and_firefox.png (ScreenShot/Terminal_and_firefox.png)
+https://github.com/SerezhaIlyasov/-i3-my-first-rice/blob/main/ScreenShots/Terminal_and_thunar.png
 
-!Terminal2_and_firefox.png (ScreenShot/Terminal2_and_firefox.png)
+https://github.com/SerezhaIlyasov/-i3-my-first-rice/blob/main/ScreenShots/Workspace.png
