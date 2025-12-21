@@ -21,6 +21,7 @@ Monitor setup: xrandr
 
 Screen shot: flameshot
 
+Notes: obsidian
 
 Preview
 
